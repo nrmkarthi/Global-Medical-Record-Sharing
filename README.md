@@ -25,7 +25,7 @@ Health care records contain personal information on a patient's health and other
   - <b>Use Case</b>
   
   <p align="center">
-  <img src="https://github.com/nrmkarthi/Global-Medical-Record-Sharing/blob/main/Assets/Usecases/use.png" alt="Hospital and Doctor Registration" width="500" height="400">
+  <img src="https://github.com/nrmkarthi/Global-Medical-Record-Sharing/blob/main/Assests/Usecases/Use.png" alt="Hospital and Doctor Registration" width="500" height="400">
   </p>
   
  
