@@ -16,7 +16,7 @@ Health care records contain personal information on a patient's health and other
 
 ## Proposed Architecture 
 <p align="center">
-<img src="https://github.com/nrmkarthi/Global-Medical-Record-Sharing/blob/main/Assests/System_Architecture/System_Architecture.png)/System_Architecture.png" alt="System Architecture" width="350" height="400">
+<img src="https://github.com/nrmkarthi/Global-Medical-Record-Sharing/blob/main/Assests/System_Architecture/System_Architecture.png" alt="System Architecture" width="350" height="400">
 </p>
 
 
