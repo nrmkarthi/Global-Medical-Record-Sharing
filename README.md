@@ -32,7 +32,7 @@ Health care records contain personal information on a patient's health and other
 
 
 ## Acknowledgement
-We would like to acknowldge the support provided by SRM University
+We would like to acknowldge the support provided by SRM University and National Chung Cheng University, Chiayi, TAIWAN
 
 ## References
 1.	R. Guo, H. Shi, Q. Zhao, and D. Zheng, “Secure Attribute-Based Signature Scheme with Multiple Authorities for Blockchain in Electronic Health Records Systems,” IEEE Access, vol. 6, pp. 11676–11686, 2018, doi: 10.1109/ACCESS.2018.2801266.
