@@ -1,9 +1,5 @@
 
 
-## Abstract 
-Health care records contain personal information on a patient's health and other sensitive data. The sharing of health care records in a global environment challenging task because of the increasing costs, healthcare record tampering, and insurance fraud. We have designed Health Record Chain for Sharing Medical data for the enterprise management system using the modified SHA512 algorithm. Health Record Chain allows users to grant access to their health data to healthcare experts. Health Record Chain then keeps track of how this data is used in an auditable, transparent, and secure manner. Our experimental work also compares the health record chain system with the existing medical data sharing method. The outcome shows the that proposed method gives better throughput with low storage overhead when compared to conventional systems. The proposed protocol performances were also evaluated using the Scyther tool, and we have confirmed that our approach outperforms existing methods in terms of different security attacks.
-
-
 
 
 ## Proposed Architecture 
